@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#EH-372] Investor Reporting - Supplemental</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://enterprisebp.jira.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [EH-372]&nbsp;<a href="https://enterprisebp.jira.com/browse/EH-372">Investor Reporting - Supplemental</a>
+            <span class="subText">
+               Created: 21/Sep/17                   &nbsp;Updated: 12/Feb/18
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://enterprisebp.jira.com/secure/BrowseProject.jspa?id=11830">Enterprise Homes</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Normal
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="cwilliams" id="word_reporter_cwilliams" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams">Cricket Williams (Inactive)</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="mgadave" id="word_assignee_mgadave" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave">Mukund Gadave</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-77824-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/pdf.gif" height="16" width="16" border="0" alt="PDF File">
+                    2Q17 EMOF 1 - Supplemental PDF.pdf &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/excel.gif" height="16" width="16" border="0" alt="Microsoft Word">
+                    Chart of Accounts Production with Supplemental 2017 09 27.xlsx &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/excel.gif" height="16" width="16" border="0" alt="Microsoft Word">
+                    Chart of Accounts Production with Supplemental 2017 2_8_2018.xlsx &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/excel.gif" height="16" width="16" border="0" alt="Microsoft Word">
+                    Copy of Quarterly Supplemental and Apportionment Schedule MASTER v2016.09.14.xlsm &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    EH Partnership Overall View.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/excel.gif" height="16" width="16" border="0" alt="Microsoft Word">
+                    EHPF Supplemental December 31, 2017 Final.xlsm &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File">
+                    INT-After-Update-COA.csv &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File">
+                    INT-Before-Update-COA.csv &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/excel.gif" height="16" width="16" border="0" alt="Microsoft Word">
+                    Investor Supplemental Categories and Subs.xlsx &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    New fields - Supplemental Category and Sub-Category.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    No validation of Ownership Percentage for Indirect Partner.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/html.gif" height="16" width="16" border="0" alt="HTML File">
+                    Prod Report.xls &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File">
+                    Prod-After-Update-COA.csv &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File">
+                    Prod-Before-Update-COA.csv &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Supplemental Category picklist values.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Supplemental Sub-Category picklist values-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Supplemental Sub-Category picklist values-2.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Supplemental Sub-Category picklist values-3.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Supplemental Sub-Category picklist values-4.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Supplemental Sub-Category picklist values-5.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Supplemental Sub-Category picklist values-6.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/excel.gif" height="16" width="16" border="0" alt="Microsoft Word">
+                    UAT Report.xls &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File">
+                    UAT-After-Update-COA.csv &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File">
+                    UAT-Before-Update-COA.csv &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Validation -  Indirect Partner only one can be Primary.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://enterprisebp.jira.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Validation - Ownership Percentage 100 Percenatge.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Technical Difficulty:</b></td>
+                <td id="customfield_11550-77824-value" class="value" bgcolor="#ffffff" width="80%">    3
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Business Complexity:</b></td>
+                <td id="customfield_11551-77824-value" class="value" bgcolor="#ffffff" width="80%">    3
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Estimated Duration:</b></td>
+                <td id="customfield_11552-77824-value" class="value" bgcolor="#ffffff" width="80%">    5
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
+                <td id="customfield_10013-77824-value" class="value" bgcolor="#ffffff" width="80%">    11
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_11450-77824-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-8" href="https://enterprisebp.jira.com/browse/EH-423">
+        Investor Reporting
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10750-77824-value" class="value" bgcolor="#ffffff" width="80%">EH Asset Management - S21</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>As part of the Enterprise Homes Investor Reporting we will have to create the attached Supplemental on a quarterly basis. I believe this will be a Conga solution.</p>
+
+<p>In the attached excel file there are 3 tabs that we will have to populate from Financial Statements (Main, BalSht, IncStmt). We will identify the projects based on the value in the Portfolio field on project. The attached file is only an example based on LIHTC's setup.</p>
+
+<p><b><ins>EH Chart of Accounts</ins></b></p>
+<ol>
+	<li>Supplemental Category / Dependent Picklist (Investment in Real Estate - At Cost, Other Assets, Liabilities, Operating Expense, Partners' Capital, Revenue) / New Field</li>
+	<li>Supplemental Sub-Category / Dependent Picklist / New Field / Please see attached file 'Chart of Accounts Production with Supplemental 2017 09 27'</li>
+	<li>Update Production COA with file provided by Mark</li>
+	<li>Refresh UAT COA once Production has been updated</li>
+</ol>
+
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-158778"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="cwilliams" id="word_commented_cwilliams" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams">Cricket Williams (Inactive)</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">21/Sep/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-158778"><td bgcolor="#ffffff">
+            <p>Mark - This is the ticket for the Supplemental. Please add your COA update here. Thanks</p>
+        </td></tr>
+                <tr id="comment-header-158781"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mlinnell" id="word_commented_mlinnell" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell">Mark Linnell</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">21/Sep/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-158781"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams" class="user-hover" rel="cwilliams">Cricket Williams</a> - Attached is the picklist values for the supplemental categories and sub-categories.</p>
+        </td></tr>
+                <tr id="comment-header-158784"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="cwilliams" id="word_commented_cwilliams" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams">Cricket Williams (Inactive)</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">21/Sep/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-158784"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell" class="user-hover" rel="mlinnell">Mark Linnell</a>- Thank you. You can also load up you COA mapping to the Supplemental Category and Supplement Sub-Category.</p>
+
+<p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a> - Please see the COA requirements above. We need to create 2 new fields on COA. These two fields will be dependent on one another. Delegate as appropriate. This request has multiple pieces to it. Mainly updating data and creating a conga report.</p>
+        </td></tr>
+                <tr id="comment-header-159512"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="cwilliams" id="word_commented_cwilliams" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams">Cricket Williams (Inactive)</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">28/Sep/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-159512"><td bgcolor="#ffffff">
+            <p>Hi <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale" class="user-hover" rel="skhandagale">Sushant Khandagale</a> - This is the next task I was speaking of on our team meeting. Please see the COA requirements above. We need to create 2 new fields on COA. These two fields will be dependent on one another. Delegate as appropriate. This request has multiple pieces to it. Mainly updating data and creating a conga report. We need to produce the supplemental shown in the PDF. </p>
+        </td></tr>
+                <tr id="comment-header-159840"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="cwilliams" id="word_commented_cwilliams" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams">Cricket Williams (Inactive)</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">04/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-159840"><td bgcolor="#ffffff">
+            <p>Hi <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale" class="user-hover" rel="skhandagale">Sushant Khandagale</a> - I have uploaded a file of the COA that have Supplemental Category and Supplemental Sub-Category. Please load these into Production and then update COA on UAT. Thank you!</p>
+        </td></tr>
+                <tr id="comment-header-160037"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="cwilliams" id="word_commented_cwilliams" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams">Cricket Williams (Inactive)</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">06/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-160037"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a> - Per our team meeting, I am sending this your way. This needs to be completed ASAP. Please let me know if you need to meet separately on this or if you have any questions. Thanks!</p>
+        </td></tr>
+                <tr id="comment-header-160602"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="cwilliams" id="word_commented_cwilliams" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams">Cricket Williams (Inactive)</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-160602"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell" class="user-hover" rel="mlinnell">Mark Linnell</a> - We have questions regarding some of the data points on the summary report.</p>
+
+<ol>
+	<li>Please confirm which Partnership we should pull "Ownership %" from?</li>
+	<li>"Actual Close Date", We do not currently have a field for this on project. We are still waiting on confirmation on the requirement for what will be called the "Acquisition Date" as it relates to the REO Schedule.</li>
+	<li>Will we have a "Sold Date", if so where should this live?</li>
+	<li>"Project Losses @100%, where will this come from?</li>
+	<li>"Project Losses @Fund Level", where will this come from?</li>
+	<li>What will be the filter for pulling only the related projects into the supplemental? I'm thinking we will use Portfolio but not sure?</li>
+	<li>We've been given 2 examples from LIHTC, one in excel and one in PDF, do we need to produce the supplemental in one or both of these formats?</li>
+	<li>Will the supplemental be ran on demand for only the previous quarter period or will you need to be able run this for any quarter period?</li>
+</ol>
+
+        </td></tr>
+                <tr id="comment-header-160664"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mgadave" id="word_commented_mgadave" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave">Mukund Gadave</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">13/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-160664"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=nkasture" class="user-hover" rel="nkasture">Nitin Kasture</a>, We have completed 4 point changes mentioned in description above in all environments with data migration on FSI. Just for reference we took backup of COA's before update &amp; after from all environments &amp; attached same in ticket. Please refer attachments  <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61754/61754_INT-Before-Update-COA.csv" title="INT-Before-Update-COA.csv attached to EH-372" data-attachment-type="file" data-attachment-name="INT-Before-Update-COA.csv" data-media-services-type="file" data-media-services-id="c26d4826-7d2f-4f7f-a42a-5a0e4adad6fd">INT-Before-Update-COA.csv<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span>,  <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61753/61753_INT-After-Update-COA.csv" title="INT-After-Update-COA.csv attached to EH-372" data-attachment-type="file" data-attachment-name="INT-After-Update-COA.csv" data-media-services-type="file" data-media-services-id="0530f704-0fc9-4411-826a-d86e11251d92">INT-After-Update-COA.csv<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> ,<span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61757/61757_UAT-Before-Update-COA.csv" title="UAT-Before-Update-COA.csv attached to EH-372" data-attachment-type="file" data-attachment-name="UAT-Before-Update-COA.csv" data-media-services-type="file" data-media-services-id="4a98eeb1-1242-4f86-99ee-5feb59a4389d">UAT-Before-Update-COA.csv<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span>, <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61758/61758_UAT-After-Update-COA.csv" title="UAT-After-Update-COA.csv attached to EH-372" data-attachment-type="file" data-attachment-name="UAT-After-Update-COA.csv" data-media-services-type="file" data-media-services-id="062a13c8-056f-476f-80e4-70c30a84f469">UAT-After-Update-COA.csv<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span>, <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61755/61755_Prod-Before-Update-COA.csv" title="Prod-Before-Update-COA.csv attached to EH-372" data-attachment-type="file" data-attachment-name="Prod-Before-Update-COA.csv" data-media-services-type="file" data-media-services-id="c3e8b24f-e1a8-47c8-8fc1-c0f2e8f4bef6">Prod-Before-Update-COA.csv<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> &amp; <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61756/61756_Prod-After-Update-COA.csv" title="Prod-After-Update-COA.csv attached to EH-372" data-attachment-type="file" data-attachment-name="Prod-After-Update-COA.csv" data-media-services-type="file" data-media-services-id="d5c8d71a-b2b5-40d1-8b9f-c181d9adf4a7">Prod-After-Update-COA.csv<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span></p>
+
+<p>After review please assign this ticket back to <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale" class="user-hover" rel="skhandagale">Sushant Khandagale</a>. once he will complete investor report he will update you again.</p>
+
+<p>Cc: <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams" class="user-hover" rel="cwilliams">Cricket Williams</a>, <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale" class="user-hover" rel="skhandagale">Sushant Khandagale</a></p>
+        </td></tr>
+                <tr id="comment-header-160829"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="nkasture" id="word_commented_nkasture" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=nkasture">Nitin Kasture</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">17/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-160829"><td bgcolor="#ffffff">
+            <p>Verified following points on UAT and found correct. </p>
+
+<ol>
+	<li>New fields Supplemental Category and Supplemental Sub-Category added on Charts of Accounts Page.<span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61806/61806_New+fields+-+Supplemental+Category+and+Sub-Category.png" title="New fields - Supplemental Category and Sub-Category.png attached to EH-372" data-attachment-type="file" data-attachment-name="New fields - Supplemental Category and Sub-Category.png" data-media-services-type="file" data-media-services-id="1261b9ec-6ca8-4676-9135-64d891a19a10">New fields - Supplemental Category and Sub-Category.png<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span></li>
+	<li>Verified picklist values of Supplemental Category <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61805/61805_Supplemental+Category+picklist+values.png" title="Supplemental Category picklist values.png attached to EH-372" data-attachment-type="file" data-attachment-name="Supplemental Category picklist values.png" data-media-services-type="file" data-media-services-id="62ef1107-d649-4962-882a-a5c204db4a9d">Supplemental Category picklist values.png<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> with description in tickat as well as with <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61573/61573_Chart+of+Accounts+Production+with+Supplemental+2017+09+27.xlsx" title="Chart of Accounts Production with Supplemental 2017 09 27.xlsx attached to EH-372" data-attachment-type="file" data-attachment-name="Chart of Accounts Production with Supplemental 2017 09 27.xlsx" data-media-services-type="file" data-media-services-id="84e63603-fb48-473b-914e-2160e26bdef4">Chart of Accounts Production with Supplemental 2017 09 27.xlsx<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> and <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61268/61268_Investor+Supplemental+Categories+and+Subs.xlsx" title="Investor Supplemental Categories and Subs.xlsx attached to EH-372" data-attachment-type="file" data-attachment-name="Investor Supplemental Categories and Subs.xlsx" data-media-services-type="file" data-media-services-id="86ffef4e-13ee-4caf-89d9-4b692dfa8682">Investor Supplemental Categories and Subs.xlsx<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span></li>
+	<li>Verified picklist values of Supplemental Sub-Category with <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61573/61573_Chart+of+Accounts+Production+with+Supplemental+2017+09+27.xlsx" title="Chart of Accounts Production with Supplemental 2017 09 27.xlsx attached to EH-372" data-attachment-type="file" data-attachment-name="Chart of Accounts Production with Supplemental 2017 09 27.xlsx" data-media-services-type="file" data-media-services-id="84e63603-fb48-473b-914e-2160e26bdef4">Chart of Accounts Production with Supplemental 2017 09 27.xlsx<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> and <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61268/61268_Investor+Supplemental+Categories+and+Subs.xlsx" title="Investor Supplemental Categories and Subs.xlsx attached to EH-372" data-attachment-type="file" data-attachment-name="Investor Supplemental Categories and Subs.xlsx" data-media-services-type="file" data-media-services-id="86ffef4e-13ee-4caf-89d9-4b692dfa8682">Investor Supplemental Categories and Subs.xlsx<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span>. Screen shots added in ticket</li>
+	<li>Verified data on UAT <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61813/61813_UAT+Report.xls" title="UAT Report.xls attached to EH-372" data-attachment-type="file" data-attachment-name="UAT Report.xls" data-media-services-type="file" data-media-services-id="7e4366cf-f222-445e-ba73-4456ee4b463e">UAT Report.xls<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> and Production <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/61804/61804_Prod+Report.xls" title="Prod Report.xls attached to EH-372" data-attachment-type="file" data-attachment-name="Prod Report.xls" data-media-services-type="file" data-media-services-id="7e45f1bf-bb15-4f88-a8a2-6f86ae1efdff">Prod Report.xls<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span>.</li>
+</ol>
+
+
+<p>CC: <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams" class="user-hover" rel="cwilliams">Cricket Williams</a> , <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a></p>
+        </td></tr>
+                <tr id="comment-header-161575"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="skhandagale" id="word_commented_skhandagale" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale">Sushant Khandagale</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-161575"><td bgcolor="#ffffff">
+            <p>We have added "Include on Supplemental" Checkbox and "Indirect Partner" as Account Role in UAT and Production.</p>
+
+<p>CC : <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a>, <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams" class="user-hover" rel="cwilliams">Cricket Williams</a>,<a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=nkasture" class="user-hover" rel="nkasture">Nitin Kasture</a></p>
+        </td></tr>
+                <tr id="comment-header-161630"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="cwilliams" id="word_commented_cwilliams" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams">Cricket Williams (Inactive)</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-161630"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a> , Per our discussion this morning please update the 100% validation on partnerships to exclude the 'Indirect Partner'. We should be allowed to add 'Ownership Percentage' for these but they should not be included in the 100% test. Thanks</p>
+        </td></tr>
+                <tr id="comment-header-161685"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mgadave" id="word_commented_mgadave" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave">Mukund Gadave</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">27/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-161685"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=nkasture" class="user-hover" rel="nkasture">Nitin Kasture</a>, We have done below 2 changes as requested above in all the environments.</p>
+<ul>
+	<li>Update the 100% validation on partnerships to exclude the 'Indirect Partner'</li>
+	<li>Ownership Percentage field should support upto 7 decimal places. <span class="error">&#91;_This change is requested by Mark &amp; Denise over email._&#93;</span></li>
+</ul>
+
+
+<p>Cc: <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams" class="user-hover" rel="cwilliams">Cricket Williams</a>, <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale" class="user-hover" rel="skhandagale">Sushant Khandagale</a></p>
+        </td></tr>
+                <tr id="comment-header-161709"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="nkasture" id="word_commented_nkasture" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=nkasture">Nitin Kasture</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">27/Oct/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-161709"><td bgcolor="#ffffff">
+            <p>Verified following changes on UAT and found working as requested. Screenshots attached for reference . </p>
+
+<ol>
+	<li>Verified Ownership Interest will not more than 100% for Role other than Indirect Partner.</li>
+	<li>Verified 'Indirect Partner' role Excluded from 100% validation</li>
+	<li>Verified at a time only one 'Indirect Partner' will be Primary.</li>
+</ol>
+
+
+<p>CC: <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams" class="user-hover" rel="cwilliams">Cricket Williams</a> , <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a></p>
+        </td></tr>
+                <tr id="comment-header-164835"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mlinnell" id="word_commented_mlinnell" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell">Mark Linnell</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/Dec/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-164835"><td bgcolor="#ffffff">
+            <p>Good day <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale" class="user-hover" rel="skhandagale">Sushant Khandagale</a> , can you provide me with a progress update on this ticket.  Thanks</p>
+        </td></tr>
+                <tr id="comment-header-164846"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="skhandagale" id="word_commented_skhandagale" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale">Sushant Khandagale</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/Dec/17</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-164846"><td bgcolor="#ffffff">
+            <p>Hey <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell" class="user-hover" rel="mlinnell">Mark Linnell</a>,</p>
+
+<p>On this ticket I have worked last on 24th October, and I also demoed the progress to you.  So that is still in same phase (i.e. initial level) what I shown to you at that time.<br/>
+After that as Cricket said that there is no supplemental data, so I should change my priority to ECLF report.<br/>
+And after that also I haven't received any instructions to start on this, so I continued working on ECLF report and 202 stuff.</p>
+
+<p>Regards,<br/>
+Sushant</p>
+
+<p>cc: <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=cwilliams" class="user-hover" rel="cwilliams">Cricket Williams</a>; <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a></p>
+        </td></tr>
+                <tr id="comment-header-165947"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mlinnell" id="word_commented_mlinnell" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell">Mark Linnell</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">04/Jan/18</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-165947"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a> - I think we lost <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=skhandagale" class="user-hover" rel="skhandagale">Sushant Khandagale</a> as a resource for this ticket. Can you analyze this and let me know where we are on this? I would like to have the template ready for when we receive data, we can test it. </p>
+
+<p>Thanks</p>
+        </td></tr>
+                <tr id="comment-header-169043"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mlinnell" id="word_commented_mlinnell" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell">Mark Linnell</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">08/Feb/18</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-169043"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a> - Don't be mad, but I noticed that a couple of my previous mappings were incorrect on the supplemental. See new list of  Categories and Subcategories. There are only a few adds/edits.   I also included a new supplemental that I put together just a couple weeks ago for your reference.</p>
+
+<p>Sorry Sir<img class="emoticon" src="https://enterprisebp.jira.com/images/icons/emoticons/sad.png" height="16" width="16" align="absmiddle" alt="" border="0"/></p>
+
+<p> <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/63488/63488_Chart+of+Accounts+Production+with+Supplemental+2017+2_8_2018.xlsx" title="Chart of Accounts Production with Supplemental 2017 2_8_2018.xlsx attached to EH-372" data-attachment-type="file" data-attachment-name="Chart of Accounts Production with Supplemental 2017 2_8_2018.xlsx" data-media-services-type="file" data-media-services-id="528e624b-a705-47fb-9a12-5849ee3933a8">Chart of Accounts Production with Supplemental 2017 2_8_2018.xlsx<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> <br/>
+ <span class="nobr"><a href="https://enterprisebp.jira.com/secure/attachment/63489/63489_EHPF+Supplemental+December+31%2C+2017+Final.xlsm" title="EHPF Supplemental December 31, 2017 Final.xlsm attached to EH-372" data-attachment-type="file" data-attachment-name="EHPF Supplemental December 31, 2017 Final.xlsm" data-media-services-type="file" data-media-services-id="627eceb2-9783-468d-b852-6cb59379b95e">EHPF Supplemental December 31, 2017 Final.xlsm<sup><img class="rendericon" src="https://enterprisebp.jira.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> </p>
+        </td></tr>
+                <tr id="comment-header-169057"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mgadave" id="word_commented_mgadave" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave">Mukund Gadave</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Feb/18</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-169057"><td bgcolor="#ffffff">
+            <p>Hi <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell" class="user-hover" rel="mlinnell">Mark Linnell</a>, No Problem. We have updated COA to latest on Prod &amp; UAT. Thanks!.<br/>
+Can I go ahead &amp; correct spell for COA Names for below 2? Please confirm.<br/>
+<a href="https://enterprise.my.salesforce.com/a5u14000000Mi4zAAC" class="external-link" rel="nofollow">https://enterprise.my.salesforce.com/a5u14000000Mi4zAAC</a> (Affiliaties to Affiliates) <br/>
+<a href="https://enterprise.my.salesforce.com/a5u14000000AeTOAA0" class="external-link" rel="nofollow">https://enterprise.my.salesforce.com/a5u14000000AeTOAA0</a> (Consessions to Concessions)</p>
+        </td></tr>
+                <tr id="comment-header-169086"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mlinnell" id="word_commented_mlinnell" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mlinnell">Mark Linnell</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Feb/18</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-169086"><td bgcolor="#ffffff">
+            <p><a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave" class="user-hover" rel="mgadave">Mukund Gadave</a> - Good catch - Yes, please do. Thanks</p>
+        </td></tr>
+                <tr id="comment-header-169188"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mgadave" id="word_commented_mgadave" href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=mgadave">Mukund Gadave</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/Feb/18</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-169188"><td bgcolor="#ffffff">
+            <p>Corrected spellings on UAT &amp; Prod.</p>
+
+<p>Cc: <a href="https://enterprisebp.jira.com/secure/ViewProfile.jspa?name=pkarapurkar" class="user-hover" rel="pkarapurkar">Priyanka Karapurkar</a></p>
+        </td></tr>
+            </table>
+Generated at Thu Feb 15 07:25:43 UTC 2018 by Priyanka Karapurkar using Jira 1001.0.0-SNAPSHOT#100079-sha1:018bf7854acf4eb6e48401eaab8e1406d9af0b2a.
+
+</body>
+</html>
